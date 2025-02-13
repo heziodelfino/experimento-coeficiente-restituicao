@@ -1,6 +1,6 @@
 # Experimento: Coeficiente de Restituição
 
-Este experimento tem como objetivo determinar o coeficiente de restituição de diferentes materiais, analisando a energia perdida em colisões. Para isso, uma bolinha é solta de várias alturas e o tempo total de queda é registrado até que ela pare de quicar.
+O experimento visa determinar o coeficiente de restituição de diferentes materiais, medindo a energia perdida em colisões. Utilizando uma bolinha e um piso uniforme, a bolinha é solta de várias alturas e o tempo total de queda é registrado até parar de quicar. A partir dos dados coletados, o coeficiente é calculado usando análise por mínimos quadrados. O experimento é repetido com diferentes bolas e pisos para comparar os resultados.
 
 ## Estrutura do Repositório:
 

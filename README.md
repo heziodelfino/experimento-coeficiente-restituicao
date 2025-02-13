@@ -16,3 +16,19 @@ Este experimento tem como objetivo determinar o coeficiente de restituição de 
    git clone https://github.com/seu-usuario/experimento-coeficiente-restituicao.git
    cd experimento-coeficiente-restituicao
 
+2. Instale as dependências (se for necessário):
+   ```sh
+   pip install numpy matplotlib scipy pandas
+
+3. Execute os scripts conforme necessário:
+   ```sh
+   python experimento_coeficiente_de_rest.py
+   python layout.py
+   python R_squared.py
+   python tabela_coef.py
+
+## Notas:
+
+O experimento utiliza ajuste linear para estimar a relação entre a altura inicial da bolinha e o tempo total de quique.
+
+Os coeficientes R^2 são calculados para validar a precisão do ajuste.
